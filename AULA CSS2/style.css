@@ -1,0 +1,30 @@
+.div-pai {
+    width: 80%;
+    height: 400px;
+    background-color: #ABA8B2;
+    margin: auto;
+    display: flex;
+    align-items: center; 
+    justify-content: space-between; 
+    flex-direction: column; 
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: #C3C3C3;
+}
+
+.cor1 {
+    background-color: #5386E4;
+    align-self: flex-end;
+}
+
+.cor2 {
+background-color: #4C4B63;
+}
+
+.cor3 {
+    background-color: #949396;
+    align-self: flex-start;
+}
